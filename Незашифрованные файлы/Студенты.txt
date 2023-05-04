@@ -1,0 +1,148 @@
+21
+AvdeenkoI
+Avdeenko_TY001
+Илья
+Авдеенко
+4 3 0 5 4 4 0 0
+3
+3.83
+BoblakK
+Boblak_PE002
+Кирилл
+Боблак
+5 5 4 3 4 0 4 4
+4
+4.13
+VasilyevA
+Vasilyev_LG003
+Артем
+Васильев
+3 4 0 2 5 4 0 0
+3
+3.50
+VyrodovaE
+Vyrodova_BH004
+Елизавета
+Выродова
+4 0 3 4 0 2 4 0
+3
+3.33
+GavrilovA
+Gavrilov_MD005
+Андрей
+Гаврилов
+5 4 5 4 5 5 5 0
+4
+4.63
+GorodnichevaV
+Gorodnicheva_IR006
+Владислава
+Городничева
+4 3 4 4 5 4 5 4
+3
+4.00
+GrishinaA
+Grishina_FT007
+Анастасия
+Гришина
+4 2 0 0 0 5 3 0
+3
+3.40
+DubrovinN
+Dubrovin_CV008
+Никита
+Дубровин
+5 4 4 0 5 0 4 4
+5
+4.43
+ZhurovE
+Zhurov_WQ009
+Егор
+Журов
+3 0 4 4 5 2 4 0
+3
+3.57
+ZaitsevI
+Zaitsev_XZ010
+Илья
+Зайцев
+4 3 4 4 5 5 4 0
+5
+4.25
+KornienkoD
+Kornienko_DA011
+Дарина
+Корниенко
+4 5 5 4 5 5 5 5
+5
+4.78
+KrasivinV
+Krasivin_FG012
+Владислав
+Красивин
+4 0 0 0 0 4 5 0
+4
+4.25
+MachehinG
+Machehin_PM013
+Григорий
+Мачехин
+4 5 5 4 3 4 4 5
+3
+4.11
+MerkulovN
+Merkulov_JC014
+Николай
+Меркулов
+4 3 0 2 4 4 4 0
+3
+3.43
+MorozovT
+Morozov_SB015
+Тимофей
+Морозов
+4 5 4 4 3 4 0 4
+3
+3.88
+SoldatenkoD
+Soldatenko_NL016
+Данил
+Солдатенко
+4 3 3 4 0 0 5 4
+3
+3.71
+SolenkovaA
+Solenkova_JR017
+Анна
+Соленкова
+4 4 3 0 5 4 5 4
+3
+4.00
+StafeevK
+Stafeev_TC018
+Кирилл
+Стафеев
+4 4 0 4 5 4 3 4
+4
+4.00
+TyurinA
+Tyurin_OY018
+Антон
+Тюрин
+4 5 0 4 4 5 3 5
+4
+4.25
+UsheninE
+Ushenin_BE020
+Евгений
+Ушенин
+5 4 5 5 5 5 4 5
+4
+4.67
+TsopinE
+Tsopin_FU021
+Егор
+Цопин
+4 0 4 3 4 5 4 0
+5
+4.14
